@@ -1,0 +1,27 @@
+Source: dde-lite-base
+Section: misc
+Priority: optional
+Maintainer: mhduiy
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 1.0.0
+
+Package: dde-lite-base
+Architecture: all
+Depends:
+ ${misc:Depends},
+Conflicts:
+  uos-ai,
+  deepin-update-ui,
+  deepin-app-store,
+  com.uos.drive,
+  dde-cooperation,
+  dde-cooperation-transfer,
+  org.deepin.browser,
+  remmina,
+  deepin-unioncode,
+  uos-remote-assistance,
+  uos-service-support,
+  deepin-mail,
+  deepin-manual
+Description: dde lite base
