@@ -22,5 +22,6 @@ Conflicts:
   uos-remote-assistance,
   uos-service-support,
   deepin-mail,
-  deepin-manual
+  deepin-manual,
+  dde-grand-search
 Description: dde lite base
