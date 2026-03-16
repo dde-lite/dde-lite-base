@@ -13,7 +13,6 @@ Depends:
 Conflicts:
   uos-ai,
   deepin-update-ui,
-  deepin-app-store,
   com.uos.drive,
   dde-cooperation,
   dde-cooperation-transfer,
